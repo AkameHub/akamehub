@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pxnmy/yessirsky/main/hmm"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AkameHub/yessirsky/patch-2/hmm", true))();
